@@ -6,7 +6,7 @@ let noychus = Developer(
     role: "iOS Developer",
     tech: ["Swift", "SwiftUI", "UIKit", "GCD"],
     links: [
-        "telegram": "t.me/noychus"
+        "telegram": "t.me/iconyami"
     ]
 )
 ```
