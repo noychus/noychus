@@ -4,7 +4,7 @@
 let noychus = Developer(
     name: "Andrey Karetnikov",
     role: "iOS Developer",
-    tech: ["Swift", "SwiftUI", "UIKit", "GCD"],
+    tech: ["Swift", "SwiftUI", "UIKit", "SnapKit", "GCD"],
     links: [
         "telegram": "t.me/iconyami"
     ]
